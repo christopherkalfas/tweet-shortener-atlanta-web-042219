@@ -1,3 +1,3 @@
-def word_subtituter
+def word_subtituter(tweet)
   
 end 
