@@ -15,8 +15,8 @@ end
   
 
 
-def word_substituter(tweet)
-  tweet.split.collect do |word|
-    
+def word_substituter(tweets)
+  tweets.split.collect do |word|
+    word.keys
   end  
 end 
