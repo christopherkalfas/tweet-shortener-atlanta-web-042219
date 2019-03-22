@@ -1,3 +1,3 @@
-def word_subtituter(tweet)
+def word_substituter(tweet)
   
 end 
