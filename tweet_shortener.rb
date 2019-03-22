@@ -31,4 +31,6 @@ def bulk_tweet_shortener(tweets1)
   end 
 end 
 
-def 
+def selective_tweet_shortener(tweets2)
+  tweets2.collect do |tweets|
+    
