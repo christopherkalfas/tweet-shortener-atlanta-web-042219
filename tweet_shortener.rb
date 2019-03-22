@@ -9,7 +9,8 @@ def dictionary
   "&" => "and"
   }
   
-dictionary.each do |word  
+dictionary.each do |word|
+  
 
 end
   
