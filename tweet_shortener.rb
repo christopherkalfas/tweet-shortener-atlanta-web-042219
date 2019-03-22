@@ -12,5 +12,5 @@ end
 
 
 def word_substituter(tweet)
-  tweet.
+  tweet.split("")
 end 
