@@ -12,5 +12,5 @@ end
 
 
 def word_substituter(tweet)
-  short_tweet = tweet.split.map! do { |w| w 
+  short_tweet = tweet.split.map! do  |w|  
 end 
