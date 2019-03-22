@@ -8,10 +8,6 @@ def dictionary
   "@" => "at",
   "&" => "and"
   }
-  
-dictionary.each do |word|
-  
-
 end
   
 
