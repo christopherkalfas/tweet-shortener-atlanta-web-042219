@@ -1,12 +1,15 @@
 def dictionary
   dictionary = {
-  "hi"=>"hello",
-  "2" => ["to", "two", "too"],
-  "4" => ["for", "four"],
-  "b" => "be",
-  "u" => "you",
-  "@" => "at",
-  "&" => "and"
+  "hello" => "hi",
+  "to" => "2",
+  "too" => "2",
+  "two" => "2",
+  "for" => "4",
+  "four" => "4",
+  "be" => "b",
+  "you" => "u",
+  "at" => "@",
+  "and" => "&"
   }
 end
   
